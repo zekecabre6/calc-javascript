@@ -19,7 +19,7 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 75px);
   grid-template-rows: 160px repeat(5, 75px);
-  background-color: #00916e;
+  background-color: #112236;
   padding: 15px;
   border-radius: 32px;
   box-shadow: 15px 10px 0px 5px #00000033;
@@ -32,12 +32,12 @@ button {
   border-radius: 32px;
   font-size: 1.5em;
   border: none;
-  background-color: #00916e;
-  box-shadow: 5px 5px 10px -3px #00000040, -5px -5px 15px 3px #00ffc11f;
+  background-color: #436280;
+  box-shadow: 5px 5px 10px -3px #00000040, -5px -5px 15px 3px #7d83811f;
 }
 
 button:active {
-  background-color: #006f54;
+  background-color: #a3bad2;
 }
 
 button:focus {
@@ -72,10 +72,10 @@ button:focus {
 }
 
 .operador {
-  background-color: #d02e2e;
+  background-color: #dbe4ed65;
 }
 
 .green {
-  background-color: #c2755d;
+  background-color: #ffffff85;
 }
 
